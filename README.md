@@ -119,13 +119,13 @@ Countdown-and-Quotes-Application/
 
 ## 🚀 Live Demo
 
-👉 **Live Project:**  https://countdown-and-quotes.netlify.app/
+**Live Project:**  https://countdown-and-quotes.netlify.app/
 
 ---
 
 ## 🎥 Project Explanation Video
 
-👉 **Video:**  [Project Explanation Video](https://drive.google.com/file/d/1h1eMSsq1PKSahmSxqe9UPNr8LAyeQVb0/view?usp=sharing)
+**Video:**  [Project Explanation Video](https://drive.google.com/file/d/1h1eMSsq1PKSahmSxqe9UPNr8LAyeQVb0/view?usp=sharing)
 
 ---
 
@@ -141,7 +141,7 @@ Countdown-and-Quotes-Application/
 
 ## 🎥 Project Demo
 
-👉 **Video:** [Project Demo](https://drive.google.com/file/d/1aYkrJYBqudBTnPFALE_0Qgq4PagPQ8fR/view?usp=sharing)
+**Video:** [Project Demo](https://drive.google.com/file/d/1aYkrJYBqudBTnPFALE_0Qgq4PagPQ8fR/view?usp=sharing)
 
 ---
 
