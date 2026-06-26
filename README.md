@@ -33,6 +33,8 @@ This project is built using HTML, CSS, and JavaScript to create an interactive *
 - `setTimeout()` is used to display the modal popup after page load.
 - DOM manipulation is used to update timer, quotes, and modal dynamically.
 
+---
+
 ## ✨ Features
 
 - ⏳ Real-Time New Year Countdown
