@@ -79,7 +79,7 @@ Countdown-and-Quotes-Application/
 ├── assets/
 │   ├── countdown-and-quotes.png
 │   ├── modal.png
-|   ├── output-video.mp4
+|   └── output-video.mp4
 │
 ├── css/
 │   └── style.css
