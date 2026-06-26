@@ -1,4 +1,4 @@
-# ⏳ Countdown & Quotes Application
+# Project : Countdown & Quotes Application
 
 A simple and interactive JavaScript application that combines a **New Year Countdown Timer**, **Motivational Quotes Slider**, and a **Welcome Modal Popup**. This project demonstrates the use of JavaScript timing functions, DOM manipulation, arrays, and ES6 features to create a dynamic user experience.
 
