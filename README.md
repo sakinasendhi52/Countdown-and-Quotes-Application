@@ -12,6 +12,27 @@ This project is designed to strengthen JavaScript fundamentals through practical
 
 ---
 
+## 🚀 How This Project is Made
+
+This project is built using HTML, CSS, and JavaScript to create an interactive **Countdown & Quotes Application**.
+
+### 🧱 HTML Structure
+- Basic structure is created using HTML elements.
+- Sections include countdown timer, quote display, and modal popup.
+
+### 🎨 CSS Styling
+- Flexbox is used for layout alignment.
+- CSS transitions provide smooth animations.
+- Responsive design is used for better user experience.
+
+### ⚙️ JavaScript Functionality
+- Arrow functions are used for cleaner code.
+- `setInterval()` is used for:
+  - Real-time countdown update
+  - Auto-changing quotes slider
+- `setTimeout()` is used to display the modal popup after page load.
+- DOM manipulation is used to update timer, quotes, and modal dynamically.
+
 ## ✨ Features
 
 - ⏳ Real-Time New Year Countdown
