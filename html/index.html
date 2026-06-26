@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Countdown and Quotes</title>
+    <link rel="stylesheet" href="../css/style.css" />
+</head>
+
+<body>
+    <h1>New Year's Countdown</h1>
+    <p class="subhead">Time is aligning everything in your favor.</p>
+
+    <!-- ===================== Countdown ===================== -->
+    <section class="countdown-section">
+        <div class="panel countdown-row">
+            <div>
+                <span class="value" id="days">00</span><span class="label">Days</span>
+            </div>
+            <div>
+                <span class="value" id="hours">00</span><span class="label">Hours</span>
+            </div>
+            <div>
+                <span class="value" id="minutes">00</span><span class="label">Minutes</span>
+            </div>
+            <div>
+                <span class="value" id="seconds">00</span><span class="label">Seconds</span>
+            </div>
+        </div>
+
+        <p class="countdown-message" id="countdownMessage"></p>
+        <button class="btn-primary" id="toggleBtn">Pause</button>
+    </section>
+
+    <!-- ===================== Quotes ===================== -->
+    <section class="quotes-section">
+        <p class="section-title">Motivational Quotes</p>
+        <div class="panel">
+            <p class="quote-text" id="quoteText"></p>
+            <p class="quote-author" id="quoteAuthor"></p>
+        </div>
+
+        <div class="quote-controls">
+            <!-- Previous Button -->
+            <button class="icon-btn" id="prevBtn" aria-label="Previous quote">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                    class="bi bi-chevron-left" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd"
+                        d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0" />
+                </svg>
+            </button>
+            <div class="quote-dots" id="quoteDots"></div>
+            <!-- Next Button -->
+            <button class="icon-btn" id="nextBtn" aria-label="Next quote">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                    class="bi bi-chevron-right" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd"
+                        d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708" />
+                </svg>
+            </button>
+        </div>
+    </section>
+
+    <!-- ===================== Modal ===================== -->
+    <section>
+        <div class="modal-overlay" id="modalOverlay">
+            <div class="panel modal-box">
+                <button class="modal-close" id="modalClose" aria-label="Close">
+                    &#10005;
+                </button>
+                <p class="modal-title">Welcome to Countdown and Quotes</p>
+                <p class="modal-body">
+                    Follow the countdown and stay inspired with every
+                    second.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <script src="../js/script.js"></script>
+</body>
+
+</html>
