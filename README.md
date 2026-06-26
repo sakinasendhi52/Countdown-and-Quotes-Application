@@ -141,7 +141,7 @@ Countdown-and-Quotes-Application/
 
 ## 🎥 Project Demo
 
-👉 **Video:** [![Project Demo](https://drive.google.com/file/d/1aYkrJYBqudBTnPFALE_0Qgq4PagPQ8fR/view?usp=sharing)
+👉 **Video:** [Project Demo](https://drive.google.com/file/d/1aYkrJYBqudBTnPFALE_0Qgq4PagPQ8fR/view?usp=sharing)
 
 ---
 
