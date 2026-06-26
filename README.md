@@ -113,55 +113,23 @@ Add your Vercel or Netlify deployment link here.
 
 ### ⏳ Countdown Timer & 💬 Quotes Slider
 
-_Add your countdown screenshot here._
+<img src="assets/countdown-and-quotes.png" width="800" alt="Countdown and Quotes">
 
 ### 🖼️ Welcome Modal
 
-_Add your modal popup screenshot here._
+<img src="assets/modal.png" width="800" alt="Modal">
 
-## 🎥 Output Video
+## 🎥 Project Demo
 
-_Add your modal popup screenshot here._
-
----
-
-## 💻 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/Countdown-and-Quotes-Application.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd Countdown-and-Quotes-Application
-```
-
-Open the project by launching:
-
-```text
-html/index.html
-```
-
----
-
-## 🎯 Future Improvements
-
-- 🌙 Dark Mode
-- 📝 Add Custom Quotes
-- 💾 Save Quotes using Local Storage
-- 🎨 Multiple Themes
-- 📅 Allow Users to Set Custom Countdown Dates
+[![Watch Demo](assets/countdown-and-quotes.png)](https://github.com/sakinasendhi52/Countdown-and-Quotes-Application/blob/main/assets/output-video.mp4)
 
 ---
 
 ## 👩‍💻 Author
 
-**Your Name**
+**Sakina Sendhi**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/sakinasendhi52
 
 ---
 
