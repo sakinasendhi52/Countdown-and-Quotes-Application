@@ -37,13 +37,13 @@ This project is built using HTML, CSS, and JavaScript to create an interactive *
 
 ## ✨ Features
 
-- ⏳ Real-Time New Year Countdown
-- ▶️ Start & Pause Countdown Controls
-- 💬 Automatic Motivational Quotes Slider
-- ⬅️ Previous & Next Quote Navigation
-- 🖼️ Welcome Modal Popup
-- 🎯 Dynamic DOM Manipulation
-- 📱 Responsive User Interface
+- Real-Time New Year Countdown
+- Start & Pause Countdown Controls
+- Automatic Motivational Quotes Slider
+- Previous & Next Quote Navigation
+- Welcome Modal Popup
+- Dynamic DOM Manipulation
+- Responsive User Interface
 
 ---
 
