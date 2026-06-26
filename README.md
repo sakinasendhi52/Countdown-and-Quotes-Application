@@ -121,7 +121,9 @@ Add your Vercel or Netlify deployment link here.
 
 ## 🎥 Project Demo
 
-[![Watch Demo](assets/countdown-and-quotes.png)]((https://drive.google.com/file/d/1aYkrJYBqudBTnPFALE_0Qgq4PagPQ8fR/view?usp=sharing))
+## 🎥 Project Demo
+
+[![Project Demo](assets/countdown-and-quotes.png)](https://drive.google.com/file/d/1aYkrJYBqudBTnPFALE_0Qgq4PagPQ8fR/view?usp=sharing)
 
 ---
 
