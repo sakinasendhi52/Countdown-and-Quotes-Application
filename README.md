@@ -105,25 +105,21 @@ Add your Vercel or Netlify deployment link here.
 ## 🎥 Project Explanation Video
 
 👉 **Video:**  
-Add your Google Drive or YouTube link here.
+[Project Explanation Video](https://drive.google.com/file/d/1h1eMSsq1PKSahmSxqe9UPNr8LAyeQVb0/view?usp=sharing)
 
 ---
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-
-_Add your homepage screenshot here._
-
-### ⏳ Countdown Timer
+### ⏳ Countdown Timer & 💬 Quotes Slider
 
 _Add your countdown screenshot here._
 
-### 💬 Quotes Slider
-
-_Add your quotes slider screenshot here._
-
 ### 🖼️ Welcome Modal
+
+_Add your modal popup screenshot here._
+
+## 🎥 Output Video
 
 _Add your modal popup screenshot here._
 
