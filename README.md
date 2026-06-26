@@ -119,31 +119,29 @@ Countdown-and-Quotes-Application/
 
 ## 🚀 Live Demo
 
-👉 **Live Project:**  
-https://countdown-and-quotes.netlify.app/
+👉 **Live Project:**  https://countdown-and-quotes.netlify.app/
 
 ---
 
 ## 🎥 Project Explanation Video
 
-👉 **Video:**  
-[Project Explanation Video](https://drive.google.com/file/d/1h1eMSsq1PKSahmSxqe9UPNr8LAyeQVb0/view?usp=sharing)
+👉 **Video:**  [Project Explanation Video](https://drive.google.com/file/d/1h1eMSsq1PKSahmSxqe9UPNr8LAyeQVb0/view?usp=sharing)
 
 ---
 
 ## 📸 Screenshots
 
-### ⏳ Countdown Timer & 💬 Quotes Slider
+### Countdown Timer & Quotes Slider
 
 <img src="assets/countdown-and-quotes.png" width="800" alt="Countdown and Quotes">
 
-### 🖼️ Welcome Modal
+### Welcome Modal
 
 <img src="assets/modal.png" width="800" alt="Modal">
 
 ## 🎥 Project Demo
 
-[![Project Demo](assets/countdown-and-quotes.png)](https://drive.google.com/file/d/1aYkrJYBqudBTnPFALE_0Qgq4PagPQ8fR/view?usp=sharing)
+👉 **Video:** [![Project Demo](https://drive.google.com/file/d/1aYkrJYBqudBTnPFALE_0Qgq4PagPQ8fR/view?usp=sharing)
 
 ---
 
