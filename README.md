@@ -78,8 +78,7 @@ Countdown-and-Quotes-Application/
 │
 ├── assets/
 │   ├── countdown-and-quotes.png
-│   ├── modal.png
-|   └── output-video.mp4
+│   └── modal.png
 │
 ├── css/
 │   └── style.css
@@ -98,7 +97,7 @@ Countdown-and-Quotes-Application/
 ## 🚀 Live Demo
 
 👉 **Live Project:**  
-Add your Vercel or Netlify deployment link here.
+https://countdown-and-quotes.netlify.app/
 
 ---
 
@@ -121,8 +120,6 @@ Add your Vercel or Netlify deployment link here.
 
 ## 🎥 Project Demo
 
-## 🎥 Project Demo
-
 [![Project Demo](assets/countdown-and-quotes.png)](https://drive.google.com/file/d/1aYkrJYBqudBTnPFALE_0Qgq4PagPQ8fR/view?usp=sharing)
 
 ---
@@ -135,9 +132,4 @@ GitHub: https://github.com/sakinasendhi52
 
 ---
 
-## ⭐ Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
-
-Thank you for visiting this repository!
-````
+## ⭐ Thank you for visiting this repository!
